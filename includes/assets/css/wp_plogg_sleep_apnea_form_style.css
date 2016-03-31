@@ -1,0 +1,192 @@
+#wp-plogg-saf-div{
+    margin-bottom: 2em;
+}
+.wp_plogg_sleep_apnea_form_magicfield{
+	position: absolute;
+	left: -9999999px;
+}
+#wp-plogg-saf-div .wp-plogg-saf-field-wrapper .wp-plogg-saf-label{
+	font-weight: bold;
+}
+#wp-plogg-saf-div .wp-plogg-saf-question-number{
+    display: inline-block;
+    font-size: 1em;
+    margin-right: 10px;
+    background: #1F364C;
+    color: #FFF;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+#wp-plogg-saf-div .wp-plogg-saf-field-wrapper{
+	margin: 1em 0;
+}
+#wp-plogg-saf-div .wp-plogg-saf-question-fields-wrapper{
+    display: inline-block;
+    vertical-align: top;
+    width: 90%;
+    padding: 5px;
+}
+#wp-plogg-saf-div .wp-plogg-saf-error{
+    background: #FFE1E1;
+}
+#wp-plogg-saf-div .wp-plogg-saf-single-question-wrapper {
+    margin-bottom: 1em;
+}
+
+#wp-plogg-saf-div .wp-plogg-saf-step{
+	display: none;
+}
+#wp-plogg-saf-div .wp-plogg-saf-step.current{
+	display: block;
+}
+#wp-plogg-saf-div .wp-plogg-saf-situation-total-wrapper{
+	display: none;
+}
+#wp-plogg-saf-div .wp-plogg-saf-situation-total-wrapper.show{
+	display: block;
+}
+
+#wp-plogg-saf-div input[type="text"],
+#wp-plogg-saf-div input[type="tel"],
+#wp-plogg-saf-div input[type="email"],
+#wp-plogg-saf-div input[type="number"],
+#wp-plogg-saf-div textarea{
+	padding: 7px;
+	border: 1px solid #ddd;
+	font-size: 1em;
+	width: 100%;
+	margin: 0;
+	margin-bottom: 0;
+	border-radius: 0;
+	-moz-border-radius: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+#wp-plogg-saf-div input[type="number"]{
+	width: 100px;
+}
+#wp-plogg-saf-div table{
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+#wp-plogg-saf-div table td{
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+#wp-plogg-saf-div .wp_plogg_saf_table_cca{
+	text-align: center;
+}
+
+#wp-plogg-saf-div .error-sentence{
+	color: red;
+	display: none;
+}
+#wp-plogg-saf-div .error-sentence.show{
+	display: block;
+}
+#wp-plogg-saf-div .wp-plogg-saf-step-counter{
+    font-size: 2em;
+    font-weight: bold;
+}
+#wp-plogg-saf-div .wp-plogg-saf-step-counter span{
+	font-size: .6em;
+    margin-left: 2px;
+    letter-spacing: 4px;
+}
+#wp-plogg-saf-div .notification{
+	position: fixed;
+	top: 0%;
+	height: 100%;
+	padding: 2em 0 2em 0;
+	font-size: 2em;
+	left: 0;
+	right: 0;
+	background: rgba(255, 255, 255, 1);
+	z-index: 99999999;
+	text-align: center;
+    display: block;
+	animation: fadeout 4s;
+	-moz-animation: fadeout 4s;
+	-webkit-animation: fadeout 4s;
+	-o-animation: fadeout 4s;
+	animation-delay: 4s;
+	-moz-animation-delay: 4s;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-fill-mode: forwards;
+	-webkit-animation-fill-mode: forwards;
+	-moz-animation-fill-mode: forwards;
+	line-height: normal;
+}
+#wp-plogg-saf-div .notification .alert-box{
+	position: absolute;
+	top:50%;
+	margin-top: -200px;
+	width: 100%;
+	text-align: center;
+	left: 0;
+	padding-left:1em;
+	padding-right: 1em;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+#wp-plogg-saf-div .wp-plogg-saf-symptoms-col {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 2em;
+}
+#wp-plogg-saf-div .wp-plogg-saf-symptoms-col>b{
+    display: block;
+}
+
+#wp-plogg-saf-div .cols-wrapper{
+	overflow: hidden;
+	margin: 2em 0;
+	max-width: 600px;
+}
+#wp-plogg-saf-div .cols-wrapper .col-left{
+    width: 49%;
+    float: left;
+}
+#wp-plogg-saf-div .cols-wrapper .col-right{
+    width: 49%;
+    float: right;
+}
+
+.wp_plogg_saf_heure_label{
+	width: 85px;
+}
+.wp_plogg_saf_si_ronfle_oui{
+	display: none;
+}
+.wp_plogg_saf_si_pause_oui{
+	display: none;
+}
+.wp_plogg_saf_situation_label{
+    width: 340px;
+    display: block;
+    margin-top: 3px;
+}
+.wp_plogg_saf_si_matin_fatigue_oui{
+	display: none;
+}
+
+
+@media screen and (max-width: 600px) {
+    #wp-plogg-saf-div table {display: block; }
+    #wp-plogg-saf-div table tbody{display: block; }
+    #wp-plogg-saf-div table tr{display: inline-block;  width: 49%; vertical-align: top; }
+	#wp-plogg-saf-div table td{ border: none;  padding: 10px; display: block; width: 100%; text-align: left;     min-height: 34px;}
+	#wp-plogg-saf-div .wp-plogg-saf-situations-wrapper input[type="number"]{display: block;}
+	#wp-plogg-saf-div .wp-plogg-saf-symptoms-col{display: block; margin-bottom: 1em;}
+	#wp-plogg-saf-div .cols-wrapper .col-left{width: 100%; margin-bottom: 1em;}
+	#wp-plogg-saf-div .cols-wrapper .col-right{width: 100%;}
+	#wp-plogg-saf-div input[type="checkbox"].custom-checkbox:not(:checked) + label,
+	#wp-plogg-saf-div input[type="checkbox"].custom-checkbox:checked + label{display: block;}
+	#wp-plogg-saf-div .wp-plogg-saf-prev-next-buttons .button{display: block; margin-bottom: 1em;     width: 100%; box-sizing: border-box; -moz-box-sizing: border-box;}
+}

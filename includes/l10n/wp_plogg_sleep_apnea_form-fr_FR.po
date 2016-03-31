@@ -1,0 +1,354 @@
+msgid "Hello"
+msgstr "Bonjour"
+
+msgid "Have a nice day"
+msgstr "Bonne journée"
+
+msgid "Contact information"
+msgstr "Information de contact"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Next step"
+msgstr "Étape suivante"
+
+msgid "Previous step"
+msgstr "Étape précédente"
+
+msgid "Enter your neck circumference in cm"
+msgstr "Inscrivez la circonférence de votre cou en cm"
+
+msgid "Neck circumference in cm"
+msgstr "Circonférence de votre cou en cm"
+
+msgid "Step"
+msgstr "Étape"
+
+msgid "If your neck is larger than 49 cm, enter 49 cm."
+msgstr "Si votre cou est plus grand que 49 cm, inscrivez 49 cm comme résultat."
+
+msgid "If you have high blood pressure, add 4 cm to the circumference of your neck."
+msgstr "Si vous souffrez d’hypertension artérielle, ajoutez 4 cm à la circonférence de votre cou."
+
+msgid "If you snore, add another 3 cm to the the circumference of your neck."
+msgstr "Si vous ronflez, ajoutez 3 cm de plus à la circonférence de votre cou."
+
+msgid "If anyone noticed that you stop breathing during your sleep, add 3 cm."
+msgstr "Si quelqu’un a remarqué que vous arrêtiez de respirer durant votre sommeil, ajoutez 3 cm."
+
+msgid "Circumference"
+msgstr "Circonférence"
+
+msgid "Hypertension + 4 cm"
+msgstr "Hypertension + 4 cm"
+
+msgid "Snorer + 3cm"
+msgstr "Ronfleur + 3cm"
+
+msgid "Respiratory pauses + 3 cm"
+msgstr "Pauses respiratoires + 3 cm"
+
+msgid "Sleep habits"
+msgstr "Habitudes de sommeil"
+
+msgid "I got to bed at"
+msgstr "Je me couche à"
+
+msgid "I wake up at"
+msgstr "Je me lève à"
+
+msgid "hour(s)"
+msgstr "heure(s)"
+
+msgid "I fall asleep quickly"
+msgstr "Je m’endors rapidement"
+
+msgid "I wake up easily"
+msgstr "Je me réveille facilement"
+
+msgid "I frequently wake up at night"
+msgstr "Je me réveille fréquemment la nuit"
+
+msgid "I wake up tired in the morning"
+msgstr "Je me réveille fatigué le matin"
+
+msgid "Since how long?"
+msgstr "Depuis combien de temps?"
+
+msgid "Globally, do you consider that you sleep"
+msgstr "Jugez-vous que votre sommeil est globalement"
+
+msgid "Very well"
+msgstr "Très bon"
+
+msgid "Well"
+msgstr "Bon"
+
+msgid "Bad"
+msgstr "Mauvais"
+
+msgid "Very bad"
+msgstr "Très mauvais"
+
+msgid "Do you snore?"
+msgstr "Ronflez-vous?"
+
+msgid "Socially disturbing"
+msgstr "Socialement dérangeant"
+
+msgid "Severe"
+msgstr "Grave"
+
+msgid "Moderate"
+msgstr "Modéré"
+
+msgid "Light"
+msgstr "Léger"
+
+msgid "More important when you sleep on your back?"
+msgstr "Plus important lorsque vous dormez sur le dos?"
+
+msgid "Regulary?"
+msgstr "Régulièrement?"
+
+msgid "Explosive?"
+msgstr "Explosif?"
+
+msgid "Is your snoring worsened by"
+msgstr "Votre ronflement est-il aggravé par"
+
+msgid "Is your snoring worsened by alcohol or tiredness?"
+msgstr "Votre ronflement est-il aggravé par l'alcool ou la fatigue?"
+
+msgid "Alcohol intake"
+msgstr "La prise d’alcool"
+
+msgid "Tiredness"
+msgstr "La fatigue"
+
+msgid "Do you have respiratory pauses during your sleep which are noted by an external person?"
+msgstr "Avez-vous des pauses respiratoires durant votre sommeil notées par une personne extérieure?"
+
+msgid "If yes, does it happen"
+msgstr "Si oui, cela arrive-t-il"
+
+msgid "Did you ever wake up with a choking sensation?"
+msgstr "Vous êtes-vous déjà réveillé avec la sensation d’étouffer?"
+
+msgid "Epworth sleepiness scale"
+msgstr "Échelle de somnolence d’Epworth" 
+ 
+msgid "Are you sleepy during the day?"
+msgstr "Êtes-vous somnolent durant le jour?" 
+ 
+msgid "Last week, what was your probability of drowsing (letting yourself fall asleep slowly; being half asleep) during the following situations? Even if you have not recently been in one of these situations, try to imagine how this situation could have affected you. To answer, use the following scale by choosing the appropriate number for each situation:"
+msgstr "Au cours de la dernière semaine, quelle était la probabilité de vous assoupir (vous laisser aller doucement au sommeil; s’endormir à moitié) lors des situations suivantes? Même si vous n’avez pas été récemment dans l’une des situations, essayez d’imaginer comment cette situation aurait pu vous affecter. Pour répondre, utiliser l’échelle suivante en choisissant le chiffre approprié pour chaque situation:" 
+
+msgid "No drowsiness"
+msgstr "Jamais d’assoupissement"
+
+msgid "Small chance of drowsiness"
+msgstr "Peu de chance d’assoupissement" 
+
+msgid "Moderate chance of drowsiness"
+msgstr "Chance modérée d’assoupissement" 
+
+msgid "High chance of drowsiness"
+msgstr "Forte chance d’assoupissement"
+
+msgid "Situations: Answer each of the statements below:"
+msgstr "Situations: Répondre à chacun des énoncés ci-dessous:"
+
+msgid "Sitting down reading"
+msgstr "Assis(e) à lire"
+
+msgid "Sitting down watching television"
+msgstr "Assis(e) en regardant la télévision"
+
+msgid "Sitting down inactive in a public place (movies, theater (play), meeting)"
+msgstr "Assis(e) inactif(ve) dans un lieu public (cinéma, théâtre, réunion)"
+
+msgid "Sitting down as a passenger in a car (or in a public transport) for more than one hour without interruption"
+msgstr "Assis(e) comme passager dans une voiture (ou dans un transport en commun) depuis plus d’une heure sans interruption"
+
+msgid "Resting laid down in the afternoon when circumstances allow it"
+msgstr "Me reposant allongé(e) dans l’après-midi lorsque les circonstances le permettent"
+
+msgid "Sitting down talking to someone"
+msgstr "Assis(e) en parlant avec quelqu’un"
+
+msgid "Sitting down calmly after lunch without alcohol"
+msgstr "Assis(e) calmement après un déjeuner (lunch) sans alcool"
+
+msgid "Sitting down in a car that is stuck in traffic for a few minutes"
+msgstr "Assis(e) dans une voiture qui est arrêtée depuis quelques minutes dans le trafic"
+
+msgid "Do you feel the need to move your legs irresistibly?"
+msgstr "Ressentez-vous l’envie de bouger les jambes de façon irrésistible?"
+
+msgid "Do you suffer from headaches in the morning when you wake up?"
+msgstr "Avez-vous mal à la tête le matin en vous levant?"
+
+msgid "Do you suffer from memory loss?"
+msgstr "Présentez-vous des troubles de la mémoire?"
+
+msgid "Do you have poor concentration or difficulties focusing your attention?"
+msgstr "Avez-vous de la difficulté de concentration ou des difficultés pour fixer votre attention?"
+
+msgid "Do you get or have you ever gotten a treatment for the condition that brings you to consult today?"
+msgstr "Suivez-vous ou avez-vous déjà suivi un traitement pour la condition qui vous amène en consultation aujourd’hui?"
+
+msgid "If yes, since how long?"
+msgstr "Si oui, depuis combien de temps?"
+  
+msgid "Symptoms that can be associated with sleep apnea"
+msgstr "Symptômes pouvant être associés à l’apnée du sommeil"
+
+msgid "Daytime signs"
+msgstr "Signes de jour"
+  
+msgid "Headaches"
+msgstr "Maux de tête"
+
+msgid "Hypersomnia"
+msgstr "Hypersomnolence"
+
+msgid "Lack of restorative sleep"
+msgstr "Sommeil non réparateur"
+
+msgid "Memory loss"
+msgstr "Troubles de la mémoire"
+
+msgid "Irritability"
+msgstr "Irritabilité"
+
+msgid "Exhaustion"
+msgstr "Épuisement"
+
+msgid "Loss of libido"
+msgstr "Perte de libido"
+
+msgid "Night-time signs"
+msgstr "Signes de nuit"
+
+msgid "Snoring"
+msgstr "Ronflements"
+
+msgid "Agitated sleep"
+msgstr "Sommeil agité"
+
+msgid "Night-time sweating"
+msgstr "Sueurs nocturnes"
+
+msgid "Arousals with choking sensation"
+msgstr "Éveils avec sensation d’étouffement"
+
+msgid "Apnea observed by relatives"
+msgstr "Apnée observée par l’entourage"
+
+msgid "Getting out of bed regularly to urinate at night"
+msgstr "Se lever régulièrement pour uriner la nuit"
+
+msgid "The presence of these symptoms indicates the possibility of suffering from sleep apnea or another sleep disorder."
+msgstr "La présence de ces symptômes indique une possibilité de souffrir d’apnée du sommeil ou d’un autre trouble du sommeil."
+
+msgid "Diagnosis"
+msgstr "Diagnostic"
+
+msgid "Predictive values"
+msgstr "Valeurs prédictives"
+
+msgid "Tour de cou"
+msgstr "Valeurs prédictives"
+
+msgid "Respiratory pauses reported by the spouse"
+msgstr "Pauses respiratoires rapportées par le conjoint"
+
+msgid "Choking sensation"
+msgstr "Sensation d’étouffement"
+
+msgid "Drowsiness"
+msgstr "Somnolence"
+
+msgid "Mandibular and/or maxillary retrognathia"
+msgstr "Rétrognathie mandibulaire et/ou maxillaire"
+
+msgid "Arterial hypertension"
+msgstr "Hypertension artérielle"
+
+msgid "Send my answers"
+msgstr "Soumettre mes réponses"
+
+msgid "Rarely"
+msgstr "Rarement"
+
+msgid "Often"
+msgstr "Souvent"
+
+msgid "Every night"
+msgstr "Toutes les nuits"
+
+msgid "Neck circumference"
+msgstr "Tour de cou"
+
+msgid "Please answer correctly all the questions indicated in red."
+msgstr "Veuilez répondre correctement à toutes les questions indiquées en rouge."
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "Courriel"
+
+msgid "A confirmation email was sent.<br/>Make sure that you have received this message (it is possible that the message arrives in your spam), it confirms that we have the right email."
+msgstr "Un courriel de confirmation vous a été envoyé.<br/>Assurez-vous d'avoir reçu ce message (il se peut qu'il soit considéré comme indésirable), il confirme que nous avons le bon courriel."
+
+msgid "Sleep apnea form"
+msgstr "Formulaire Apnée du sommeil"
+
+msgid "Administrator's email"
+msgstr "Courriel de l'administrateur"
+
+msgid "Email's subject"
+msgstr "Sujet du courriel"
+
+msgid "Transmitter's name"
+msgstr "Nom de l'émetteur"
+
+msgid "Transmitter's email"
+msgstr "Courriel de l'émetteur"
+
+msgid "Shortcode to use"
+msgstr "Shortcode à utiliser"
+
+msgid "To use this plugin the shortcode is"
+msgstr "Pour utiliser le plugin le shortcode est"
+
+msgid "Email information"
+msgstr "Informations du courriel"
+
+
+msgid "Sleep apnea form settings"
+msgstr "Configuration du formulaire Apnée du sommeil"
+
+msgid "Sleep apnea"
+msgstr "Apnée du sommeil"
+
+msgid "Contact details for sending the results of the sleep apnea test"
+msgstr "Coordonnées pour l'envoi des résultats du test d'apnée du sommeil"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Someone filled the epWorth sleep apnea form"
+msgstr "Quelqu'un a répondu au question de l'apnée du sommeil epWorth"
+
+msgid "Please allow a delay of 2 to 5 days"
+msgstr "Prévoir un délai de 2 à 5 jours"
+
+msgid "Choose an answer"
+msgstr "Choisir une réponse"
